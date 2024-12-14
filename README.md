@@ -1,2 +1,2 @@
 # Boot-Loader
-It Is a Boot Loader for STM32F10x and STM32F40x
+It is a boot loader code for __STM32F103C8T6__ to mange you to flash the code using __UART1__
